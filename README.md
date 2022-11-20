@@ -20,3 +20,4 @@ To get SMILES from ligand IDs, save all ligand IDs in a CSV file (lig-ids.csv) a
 The other two scripts are simple Python scripts that you can easily run in a terminal.
 
 For more information, read this article:
+https://bioinformaticsreview.com/20221120/how-to-obtain-smiles-of-ligands-using-pdb-ligand-ids/
