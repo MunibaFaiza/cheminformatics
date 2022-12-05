@@ -24,4 +24,5 @@ The other two scripts are simple Python scripts that you can easily run in a ter
 For more information, read this article:
 https://bioinformaticsreview.com/20221120/how-to-obtain-smiles-of-ligands-using-pdb-ligand-ids/
 
+https://bioinformaticsreview.com/20221205/how-to-obtain-ligand-structures-in-pdb-format-from-pdb-ligand-ids/
 
